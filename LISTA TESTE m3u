@@ -26,8 +26,8 @@
 #EXTINF:-1 tvg-logo="" group-title="XXX Adultos", -[COLOR red]XXX Adultos[/COLOR]-
 
 #EXTM3U x-tvg-url="" tv-test="XXX.m3u"
-#EXTINF:-1 tvg-id="913" tvg-name="Miami TV" tvg-logo="https://www.m3u.cl/logo/913_Miami_TV.png", megapix
-https://s.m3u9.top/a2/hls1/megapix/__index.m3u8?mu3zAQc9HC3GbwJq=Vm58fkfjYvta621xjJgRkQ&3U1G7qaTxrPbalZnEx=1692858163
+#EXTINF:-1 tvg-id="913" tvg-name="Miami TV" tvg-logo="https://www.m3u.cl/logo/913_Miami_TV.png", animal
+https://s.m3u9.top/a2/hls1/animalplanet/__index.m3u8?mu3zAQc9HC3GbwJq=Js2WunAMIVbDS3KPIOQGCg&3U1G7qaTxrPbalZnEx=1692858510
 
 #EXTINF:-1 tvg-id="913" tvg-name="Miami TV" tvg-logo="https://www.m3u.cl/logo/913_Miami_TV.png", TC PREMIUM
 https://s.m3u9.top/a2/hls1/telecinepremium/__index.m3u8?mu3zAQc9HC3GbwJq=S6Dcw0oV1DJx7tNuNNdhMQ&3U1G7qaTxrPbalZnEx=1692858239
