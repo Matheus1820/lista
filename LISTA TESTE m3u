@@ -1,12 +1,30 @@
+#EXTM3U
+
+#*****************************
+#
+# Canales de TV y Radios online
+# Recopilado por: iLLuminati Dev Team
+# https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ
+#
+# Playlist: https://raw.githubusercontent.com/Matheus1820/lista/main/LISTA%20TESTE%20m3u
+#
+#*****************************
+#
+# Pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
+#
+#*****************************
+#   Index
+#   
+#   XXX Adultos
+#   
+#*****************************
+
+#EXTINF:-1 tvg-logo="http://saved.im/mtg4nda2znr0/img_iptv_logo.png" group-title="iPTV Free List", - 30/07/2021 Actualizado -
+
+#*****************************
+
 #EXTINF:-1 tvg-logo="" group-title="XXX Adultos", -[COLOR red]XXX Adultos[/COLOR]-
 
 #EXTM3U x-tvg-url="" tv-test="XXX.m3u"
 #EXTINF:-1 tvg-id="913" tvg-name="Miami TV" tvg-logo="https://www.m3u.cl/logo/913_Miami_TV.png", amc
 https://s.m3u9.top/a2/hls1/amc/__index.m3u8?mu3zAQc9HC3GbwJq=W0p5-MkIHWKU9zq0gBL_Pw&3U1G7qaTxrPbalZnEx=1692777746
-
-#EXTINF:-1 tvg-id="913" tvg-name="Miami TV" tvg-logo="https://www.m3u.cl/logo/913_Miami_TV.png", axn
-https://s.m3u9.top/a2/hls1/axn/__index.m3u8?mu3zAQc9HC3GbwJq=BKVVTdNc-3wL_Rjw9FSaZQ&3U1G7qaTxrPbalZnEx=1692778182
-
-#EXTINF:-1 tvg-id="913" tvg-name="Miami TV" tvg-logo="https://www.m3u.cl/logo/913_Miami_TV.png", cartoon
-https://s.m3u9.top/a2/hls1/cartoon/__index.m3u8?mu3zAQc9HC3GbwJq=37Y56L-zwwH-mf_lOZ2GcQ&3U1G7qaTxrPbalZnEx=1692778220
-
