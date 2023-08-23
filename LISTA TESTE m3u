@@ -26,11 +26,11 @@
 #EXTINF:-1 tvg-logo="" group-title="XXX Adultos", -[COLOR red]XXX Adultos[/COLOR]-
 
 #EXTM3U x-tvg-url="" tv-test="XXX.m3u"
-#EXTINF:-1 tvg-id="913" tvg-name="Miami TV" tvg-logo="https://www.m3u.cl/logo/913_Miami_TV.png", cartoon
-https://s.m3u9.top/a2/hls1/paramountplus1/__index.m3u8?mu3zAQc9HC3GbwJq=gwD0SZnx636PiYt1nN12Hg&3U1G7qaTxrPbalZnEx=1692856231
+#EXTINF:-1 tvg-id="913" tvg-name="Miami TV" tvg-logo="https://www.m3u.cl/logo/913_Miami_TV.png", megapix
+https://s.m3u9.top/a2/hls1/megapix/__index.m3u8?mu3zAQc9HC3GbwJq=Vm58fkfjYvta621xjJgRkQ&3U1G7qaTxrPbalZnEx=1692858163
 
-#EXTINF:-1 tvg-id="913" tvg-name="Miami TV" tvg-logo="https://www.m3u.cl/logo/913_Miami_TV.png", cinemax
-https://s.m3u9.top/a2/hls1/cinemax/__index.m3u8?mu3zAQc9HC3GbwJq=xd06U01WewGEr3z8mXildg&3U1G7qaTxrPbalZnEx=1692780520
+#EXTINF:-1 tvg-id="913" tvg-name="Miami TV" tvg-logo="https://www.m3u.cl/logo/913_Miami_TV.png", TC PREMIUM
+https://s.m3u9.top/a2/hls1/telecinepremium/__index.m3u8?mu3zAQc9HC3GbwJq=S6Dcw0oV1DJx7tNuNNdhMQ&3U1G7qaTxrPbalZnEx=1692858239
 
 #EXTINF:-1 tvg-id="913" tvg-name="Miami TV" tvg-logo="https://www.m3u.cl/logo/913_Miami_TV.png", combate
 https://s.m3u9.top/a2/hls1/combate/__index.m3u8?mu3zAQc9HC3GbwJq=apghxEGt4gfPV0YC1oIlzg&3U1G7qaTxrPbalZnEx=1692780576
